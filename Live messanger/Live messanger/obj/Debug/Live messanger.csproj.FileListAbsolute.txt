@@ -1,0 +1,9 @@
+F:\Visual Studio 2015\Projects\Live messanger\Live messanger\bin\Debug\Live messanger.exe.config
+F:\Visual Studio 2015\Projects\Live messanger\Live messanger\bin\Debug\Live messanger.exe
+F:\Visual Studio 2015\Projects\Live messanger\Live messanger\bin\Debug\Live messanger.pdb
+F:\Visual Studio 2015\Projects\Live messanger\Live messanger\obj\Debug\Live messanger.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Projects\Live messanger\Live messanger\obj\Debug\Live_messanger.Form1.resources
+F:\Visual Studio 2015\Projects\Live messanger\Live messanger\obj\Debug\Live_messanger.Properties.Resources.resources
+F:\Visual Studio 2015\Projects\Live messanger\Live messanger\obj\Debug\Live messanger.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\Projects\Live messanger\Live messanger\obj\Debug\Live messanger.exe
+F:\Visual Studio 2015\Projects\Live messanger\Live messanger\obj\Debug\Live messanger.pdb
